@@ -19,6 +19,15 @@ where many people contribute please fork it and make it so.
 ---
 
 # Contents
+The topics are ordered how I would personally want to learn them if I
+restarted. Contents of topics are ordered alphabetically.
+## Topic Quick Jump
+1. [First Principle]()
+2. [First Principle Hardware DIY]()
+3. [Low Level Concepts]()
+4. [Low Level Programming]()
+5. [Operating Systems]()
+
 ## First Principle (bits, bytes and the speed of light)
 
 ## First Principle Hardware DIY (making a 9V blow up)
@@ -38,5 +47,11 @@ where many people contribute please fork it and make it so.
 ## Networking IRL/DIY (in real life, do it yourself)
 
 ## Networking Detailed
+
+## Programming Basics
+
+## Website & App Basics
+
+#
 
 
